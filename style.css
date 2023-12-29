@@ -1,0 +1,4 @@
+/* Style active filter button */
+.buttonFilter.active {
+    border: 2px solid black;
+  }
